@@ -11,7 +11,7 @@ The analysis spans SDG data from 2000 to 2022, excluding 2023 due to substantial
 
 The primary objective of this analysis is to delve into the Sustainable Development Goals, aiming to provide the audience with insights that facilitate a comprehensive understanding of the current global landscape.
 
-Tableau Story [here](https://public.tableau.com/app/profile/vaiva.vitkute/viz/SustainableDevelopmentGoalsAnalysis/SDGANALYSIS)
+Tableau Story [here](https://public.tableau.com/app/profile/vaiva.vitkute/viz/SustainableDevelopmentGoalsAnalysis/SDGANALYSIS))
 
 ## Data
 The analysis was done using 2 data sets:
